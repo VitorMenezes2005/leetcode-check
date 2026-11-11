@@ -1,5 +1,5 @@
 # leetcode-check
-In this repository, I document some of the LeetCode challenges I have solved.
+Neste repositório eu compartilho os desafio que já resolvi no LeetCode.
 
 - Two Sum 001✅
 - Contains Duplicate II 219✅
